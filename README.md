@@ -11,4 +11,4 @@ Uma imagem de um gato da raça Sphynx deitado confortavelmente em uma cama dentr
 Utilizei o ChatGPT para fazer uma prompt de comandos e utilizei ela no Copilot para gerar a imagem. 
 
 🚀 Resultados
-.[LINK PARA A IMAGEM AQUI!].
+![Gato Sphynx em um apartamento moderno](https://exemplo.com/imagem-do-gato.jpg)
