@@ -12,4 +12,4 @@ Utilizei o ChatGPT para fazer uma prompt de comandos e utilizei ela no Copilot p
 
 🚀 Resultados
 
-![Gato Sphynx em um apartamento moderno]([https://exemplo.com/imagem-do-gato.jpg](https://github.com/Vinicius-programmer/lab-natty-or-not/blob/main/gato_sphynx.jpg))
+![Gato Sphynx em um apartamento moderno](https://github.com/Vinicius-programmer/lab-natty-or-not/blob/main/gato_sphynx.jpg)
